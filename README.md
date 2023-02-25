@@ -12,10 +12,23 @@
 
 ## Actividad 2
 
-- Programa 4
-- Programa 5
-- Programa 6
+- p05-promedio-de-calificaciones
+- p06-operaciones-matematicas
+- p07-funciones-trigonometricas
+- p08-dividir-cifras
+
+## Tarea Elementos basicos de Python
+
+- p09-hipotenusa-triangulo
+- p10-tercer-angulo
+- p11-convertir-temperatura
+- p12-volumen-cilindro
+- p13-calculo-tiempo
+- p14-numero-suerte
 
 ## Actividad 3
 
-- Programa7
+- p15-verifica-numero
+- p16-verificar-suma
+- p17-convertir-temperaturas
+- p18-paga-trabajador-v2
