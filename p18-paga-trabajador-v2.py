@@ -1,4 +1,4 @@
-# Calcula la paga de un trabajdador considerando 40 horas la jornada, las horas extra se pagan al doble
+# Calcula la paga de un trabajador considerando 40 horas la jornada, las horas extra se pagan al doble
 
 import os
 os.system("cls")
