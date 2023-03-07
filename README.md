@@ -40,3 +40,27 @@
 - p21-aceptar-estudiante
 - p21-aceptar-estudiante-v2
 - p22-tipo-angulo
+
+## Tarea 2
+
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-de-la-semana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-v2
+
+## Actividad 5
+
+- p29-numeros-1-100
+- p30-numeros-del-100-a-1
+- p31-numeros-del-1-200-10
+- p32-numero-suma-100
+- p33-conteo-numeros
+
+## Actividad 6
+
+- p34-tabla-conversion
+- p35-conjetura-collatz
+- p36-tabla-multiplicar
+- p37-tabla-multiplicar-v2
