@@ -74,3 +74,6 @@
 - p42-conversion-temperaturas
 - p43-numero-mayor
 
+## Primer Examen Parcial
+
+- p44-primer-examen-parcial
