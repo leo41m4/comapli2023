@@ -93,3 +93,11 @@
 - p52-tablas-multiplicar
 - p53-piramide-caracter
 - p54-factorial-numeros
+
+## Tarea 4
+
+- p55-numeros-10-en-10
+- p56-suma-pares-2-n
+- p57-secuencia-numeros-1
+- p58–secuencia-numeros-2
+- p59-secuencia-terminos-1
