@@ -109,3 +109,20 @@
 - p62–agregar lista
 - p63–remover lista
 - p64–iterar lista
+
+## Actividad 10
+
+- p65–procesar-calificaciones
+- p66–sumar-listas
+- p67-dia-paga
+- p68-nombres-edades
+- p69-listas-aleatorios
+
+## Tarea 5
+
+- p70-procesar-notas
+- p71-listas-multiplica
+- p72-mes-día-nombre
+- p73-listas-aleatorios-suma
+- p74-ciudades
+- p75-lista-impares
