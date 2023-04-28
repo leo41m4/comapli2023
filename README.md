@@ -126,3 +126,8 @@
 - p73-listas-aleatorios-suma
 - p74-ciudades
 - p75-lista-impares
+
+## Actividad 11
+
+- p76–trabajando-con-conjunto
+- p77–operaciones-sobre-conjuntos
