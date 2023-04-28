@@ -121,7 +121,7 @@
 ## Tarea 5
 
 - p70-procesar-notas
-- p71-listas-multiplica
+- p71-listas-multiplicar
 - p72-mes-día-nombre
 - p73-listas-aleatorios-suma
 - p74-ciudades
