@@ -131,3 +131,19 @@
 
 - p76–trabajando-con-conjunto
 - p77–operaciones-sobre-conjuntos
+
+## Tarea 6
+
+- p78-personas
+- p79-numeros
+
+## Actividad 12
+
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres-edades
+
+## Actividad 13
+- p83-procesar-pizza
+- p84-lista-dicc-auto
+- p85-lista-dicc-estudiante
