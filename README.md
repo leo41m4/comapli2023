@@ -147,3 +147,11 @@
 - p83-procesar-pizza
 - p84-lista-dicc-auto
 - p85-lista-dicc-estudiante
+
+## Actividad 14
+- p86-dia-semana
+- p87-numero-romano
+- p88-contar-caracter
+
+## Segundo Examen Parcial
+- p89--segundo-examen-parcial
